@@ -13,7 +13,7 @@ public class Main {
   Scanner input = new Scanner(System.in);
 
   // ask the user what size pizza they want
-  System.out.println("What is the size of pizza (in cm):");
+  System.out.println("What is the size of the pizza (in cm):");
   double size = input.nextInt();
 
   // assign variables
