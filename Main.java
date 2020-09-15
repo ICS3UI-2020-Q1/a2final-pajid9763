@@ -14,7 +14,7 @@ public class Main {
 
   // ask the user what size pizza they want
   System.out.println("What is the size of the pizza (in cm):");
-  double size = input.nextInt();
+  double size = input.nextDouble();
 
   // assign variables
   double diameter = size * 0.50;
